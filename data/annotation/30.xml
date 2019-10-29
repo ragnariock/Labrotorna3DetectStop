@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>30.jpg</filename>
+	<path>/home/ostap/Documents/LNU/kiberg/lab3/images/30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>94</ymin>
+			<xmax>519</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

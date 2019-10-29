@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>58.jpg</filename>
+	<path>/home/ostap/Documents/LNU/kiberg/lab3/images/58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>44</ymin>
+			<xmax>125</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>
