@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images_test</folder>
-	<filename>22.jpg</filename>
-	<path>/home/ostap/Documents/LNU/kiberg/lab3/data/images_test/22.jpg</path>
+	<folder>images</folder>
+	<filename>255.jpg</filename>
+	<path>/home/ostap/Documents/LNU/kiberg/Labrotorna3DetectStop/data/images/255.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>192</xmin>
-			<ymin>6</ymin>
-			<xmax>471</xmax>
-			<ymax>197</ymax>
+			<xmin>97</xmin>
+			<ymin>128</ymin>
+			<xmax>161</xmax>
+			<ymax>243</ymax>
 		</bndbox>
 	</object>
 </annotation>
